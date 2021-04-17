@@ -1,2 +1,1 @@
-# PROJECT-41
-FRUIT catcher game by whitehat jr
+# Project-41---Fruit-Catcher-2
